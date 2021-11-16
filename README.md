@@ -20,4 +20,4 @@ This is what the setup looks like
 
 ## Special Thanks 
 Made using [Konsave](https://github.com/Prayag2/konsave) . 
-Made by ald3hyd3 with ❤ in India .
+Made by nown1ne with ❤ in India .
